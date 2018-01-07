@@ -1,0 +1,198 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="garros73.github.io/portfolio" resolutions="1x" timestamp="1515316398197">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="screen-4.css" crc="87111113" ref="screen-4"/>
+    <file name="index.css" crc="31482117" ref="index"/>
+    <file name="screen-3-copy.css" crc="267618727" ref="screen-3-copy"/>
+    <file name="screen-2-copy.css" crc="3944876355" ref="screen-2-copy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:screen-4:screen-2-copy:screen-3-copy"/>
+    <file name="museutils.js" crc="46400467" ref="index:screen-4:screen-2-copy:screen-3-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:screen-4:screen-2-copy:screen-3-copy"/>
+    <file name="museconfig.js" crc="436936948" ref="index:screen-4:screen-2-copy:screen-3-copy"/>
+    <file name="webpro.js" crc="4152390327" ref="index:screen-2-copy"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index:screen-2-copy"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index:screen-2-copy"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index:screen-2-copy"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:screen-4:screen-2-copy:screen-3-copy"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index:screen-4:screen-2-copy:screen-3-copy"/>
+  </folder>
+  <folder name="images">
+    <file name="dragon-t_1.gif" crc="3901450709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-unlit torchc.png" crc="4026456873" ref="index:screen-3-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+    </file>
+    <file name="website1-lit torchc.png" crc="51435334" ref="index:screen-3-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+    </file>
+    <file name="u2222-17.png" crc="4050954207" ref="index"/>
+    <file name="website1-filledc.png" crc="4085379500" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-1c.png" crc="356487188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-clouds bc.png" crc="4262899022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-clouds mc.png" crc="198730488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-clouds 2c.png" crc="19608565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-s2 back mc.png" crc="171100101" seo="true" ref="index:screen-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-2-copy" alt=""/>
+    </file>
+    <file name="website1-50 (merged)c.png" crc="3794533108" seo="true" ref="index:screen-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-2-copy" alt=""/>
+    </file>
+    <file name="website1-s2 mid rc.png" crc="260792029" seo="true" ref="index:screen-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-2-copy" alt=""/>
+      <caption webpage="screen-2-copy" alt=""/>
+    </file>
+    <file name="website1-s2 back rc.png" crc="379039672" seo="true" ref="index:screen-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-2-copy" alt=""/>
+    </file>
+    <file name="website1-s2 mid lc.png" crc="138118588" seo="true" ref="index:screen-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-2-copy" alt=""/>
+    </file>
+    <file name="website1-i like to imagine fantastic placesc.png" crc="4144474580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-s2 foreground c.png" crc="118126929" seo="true" ref="index:screen-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-2-copy" alt=""/>
+    </file>
+    <file name="website1-s3 foregroundc.png" crc="312339308" seo="true" ref="index:screen-3-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+    </file>
+    <file name="website1-layer 9c.png" crc="3926424599" seo="true" ref="index:screen-3-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+    </file>
+    <file name="website1-fight 1c.png" crc="4108614488" ref="index:screen-3-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+    </file>
+    <file name="website1-fight 2c.png" crc="54463392" ref="index:screen-3-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+    </file>
+    <file name="website1-s3 mgroundc.png" crc="4133879430" seo="true" ref="index:screen-3-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-3-copy" alt=""/>
+    </file>
+    <file name="website1-filled.png" crc="201506135" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-check these out!c.png" crc="14570104" seo="true" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-want to see more- c.png" crc="3805127609" seo="true" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-let’s talk!c.png" crc="3761648748" seo="true" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-layer 10c.png" crc="3809909248" seo="true" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-contact me copy 2c.png" crc="450341368" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-contact mec.png" crc="3880810423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website1-artstationc.png" crc="4032497974" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-artstation 2c.png" crc="260684036" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-vimeoc.png" crc="4024431878" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-vimeo 2c.png" crc="4230040441" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-behance copyc.png" crc="213229993" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-behance 2 copyc.png" crc="170254899" ref="index:screen-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-crop-u2039.png" crc="3827533157" seo="true" ref="screen-4">
+      <caption webpage="screen-4" alt=""/>
+    </file>
+    <file name="website1-i like to imagine fantastic places.png" crc="4191602453" seo="true" ref="screen-2-copy">
+      <caption webpage="screen-2-copy" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4069395807" seo="true" mt="1515316344516" redirect="true"/>
+  <file name="screen-4.html" crc="279869955" seo="true" mt="1515314618059" redirect="true"/>
+  <file name="screen-2-copy.html" crc="36358178" seo="true" mt="1515314618059" redirect="true"/>
+  <file name="screen-3-copy.html" crc="472823709" seo="true" mt="1515314618059" redirect="true"/>
+</manifest>
